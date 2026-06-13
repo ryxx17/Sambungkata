@@ -5914,7 +5914,6 @@ atikifobia
 atinggola
 atita
 atma
-atmosfera
 atmosfernya
 atomnya
 atomosofobia
@@ -28151,7 +28150,6 @@ ena
 enaknya
 enca
 endapannya
-endivia
 endoderma
 endofasia
 endofora
@@ -29448,7 +29446,6 @@ fasilitasnya
 fasmofobia
 fatala
 fatamorgana
-fatima
 fatwa
 fauna
 favoritnya
@@ -35129,7 +35126,6 @@ imb
 isob
 itb
 iatric
-icrc
 infographic
 integralistic
 ibid
@@ -47977,7 +47973,6 @@ kenca
 kencana
 kencangnya
 kencingnya
-kenda
 kendaga
 kendala
 kendana
@@ -48332,7 +48327,6 @@ konifera
 konjungtiva
 konka
 konkretnya
-konma
 konsa
 konsentrasinya
 konsepnya
@@ -48390,7 +48384,6 @@ kortikola
 koruna
 kosa
 kosakata
-koseba
 kosmetika
 kosmikofobia
 kosongnya
@@ -68080,7 +68073,6 @@ membina
 membiola
 membola
 memboya
-membra
 membuana
 membuangnya
 membuatnya
@@ -108173,7 +108165,6 @@ termala
 termalnya
 termanja
 termasa
-termata
 termesra
 terminalia
 termionika
@@ -108227,7 +108218,6 @@ terpisahnya
 terpompa
 terpuja
 terputusnya
-terra
 tersandera
 tersanga
 tersangka
@@ -111121,7 +111111,6 @@ werda
 werdatama
 werkudara
 wewara
-whigna
 wibawa
 wibawanya
 wicaksana
