@@ -1667,7 +1667,6 @@ audiofil
 audiolingual
 audiovisual
 aufkl
-aunggul
 aungkul
 aunilateral
 auniversal
@@ -5980,7 +5979,6 @@ awawarna
 awota
 awuta
 axilla
-axonema
 aya
 ayaba
 ayahanda
@@ -31393,7 +31391,6 @@ gugatan
 guguran
 gugusan
 gujon
-gulaian
 gulaikan
 gulatan
 gulden
@@ -48336,7 +48333,6 @@ konjungtiva
 konka
 konkretnya
 konma
-konna
 konsa
 konsentrasinya
 konsepnya
@@ -111607,7 +111603,6 @@ yalusa
 yamaha
 yamna
 yanda
-yandra
 yantra
 yasa
 yaumuljaza
