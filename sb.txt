@@ -86981,7 +86981,6 @@ qarib
 qurb
 quid
 qat
-qiblat
 qiraat
 qodrat
 quamaclit
@@ -87034,7 +87033,6 @@ quo
 qada
 qadha
 qasida
-qibla
 qua
 quesadilla
 qurata
@@ -111290,7 +111288,6 @@ xantokromia
 xantoma
 xantopsia
 xenia
-xenodia
 xenofilia
 xenofobia
 xenoglosia
@@ -111314,7 +111311,6 @@ xiloidina
 xilosa
 xilulosa
 xirofobia
-xylopia
 yiz
 yayay
 yonif
@@ -111631,7 +111627,6 @@ yukata
 yunara
 yunda
 yunia
-yunida
 yunita
 yunta
 yupa
