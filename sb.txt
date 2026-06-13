@@ -38114,7 +38114,6 @@ jalannya
 jalanya
 jalesveva
 jalinannya
-jalla
 jalurnya
 jamaika
 jambalaya
@@ -48214,7 +48213,6 @@ kinja
 kinkonidina
 kinoa
 kinofobia
-kinta
 kintaka
 kinya
 kionofobia
@@ -67774,7 +67772,6 @@ manja
 manjapada
 manna
 manora
-mansapa
 manta
 mantelnya
 mantera
@@ -108350,7 +108347,6 @@ tidurnya
 tifa
 tiflofilia
 tifonia
-tifosa
 tiga
 tiganya
 tigrina
@@ -108607,7 +108603,6 @@ tulennya
 tulisannya
 tulisnya
 tuma
-tumbera
 tumbuhannya
 tumbuhnya
 tumika
@@ -108659,7 +108654,6 @@ tuternya
 tutsnya
 tutuna
 tutupnya
-tyama
 ultraorthodox
 unisex
 ustadz
@@ -111920,7 +111914,6 @@ zatnya
 zatua
 zeazera
 zebra
-zedaria
 zelofobia
 zeta
 zetabita
@@ -111930,9 +111923,7 @@ zia
 zibetha
 zigospora
 zina
-zinnia
 zirkonia
-zlacca
 zoa
 zodia
 zodiaknya
