@@ -5496,7 +5496,6 @@ andrawina
 androfilia
 androfobia
 andromeda
-anehnya
 aneilema
 aneka
 anelida
@@ -72231,7 +72230,6 @@ nanya
 napasnya
 napza
 nara
-naraca
 naralila
 narapidana
 narapidananya
@@ -108606,11 +108604,8 @@ yalusa
 yamaha
 yamna
 yanda
-yandra
 yantra
-yara
 yasa
-yata
 yaumuljaza
 yawa
 yehova
@@ -108908,10 +108903,8 @@ zamannya
 zambia
 zantara
 zapota
-zapra
 zarathustra
 zarzuela
-zatnya
 zatua
 zeazera
 zebra
