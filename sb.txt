@@ -48434,7 +48434,6 @@ kredenza
 krema
 kresnapaksa
 krida
-krika
 krimea
 kriofobia
 kriogenika
@@ -50778,7 +50777,6 @@ luar
 lubar
 luber
 lubir
-lubur
 lucir
 lucur
 ludir
@@ -52238,7 +52236,6 @@ longicauda
 longifolia
 longsornya
 lonomia
-lonsa
 lontara
 lopaknya
 lora
@@ -108605,7 +108602,6 @@ tujuannya
 tuka
 tukarnya
 tula
-tuladha
 tulangnya
 tulennya
 tulisannya
@@ -111619,9 +111615,7 @@ yamna
 yanda
 yandra
 yantra
-yara
 yasa
-yata
 yaumuljaza
 yawa
 yehova
